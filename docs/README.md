@@ -37,3 +37,5 @@ print(s) #выводит 10
 |2b5c5f8 | 3 fix readme.md|
 |966ab24 | fix docs/README.md|
 |e3222f7 | 4 fix README.md|
+|81c5ebc | 3 fix docs/README.md|
+|ebfd328 | 5 fix README.md|
