@@ -32,5 +32,8 @@ print(s) #выводит 10
 |4801ec4 | docs: add docstrings|
 |99ace49 | add root README.md|
 |64fce8b | edited README.md|
+|a2579de | edited docs/README.md|
 |dec93dc | 2 edit README.md|
 |2b5c5f8 | 3 fix readme.md|
+|966ab24 | fix docs/README.md|
+|e3222f7 | 4 fix README.md|
