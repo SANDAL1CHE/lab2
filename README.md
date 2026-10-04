@@ -7,24 +7,24 @@
 4. Документация
 ---
 ## Структура
-'''
+```text
 |-docs
 |     |--README.md
 |-README.md
 |-rectangle.py
-'''
+```
 ---
 ## Функции
 **area(a, b)** - нахождение площади прямоугольника
 **perimeter(a, b)** - нахождение периметра прямоугольника
 ---
 ## Пример
-'''
+```python
 from rectangle import *
 a=2
 b=3
 print(area(a, b), perimeter(a, b))
-'''
+```
 ---
 ## Документация
-Документация проекта в ./docs/README.md
+[Документация проекта](./docs/README.md)
