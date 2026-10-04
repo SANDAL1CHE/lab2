@@ -7,7 +7,9 @@
 ## Описание функций
 ### Функция area(a, b)
 Получает на вход 2 числа, выводит площадь
+
 **Пример:**
+
 ```python
 from rectangle import area
 s = area(2, 3)
@@ -17,7 +19,9 @@ print(s) #выводит 6
 ---
 ### Функция perimeter(a, b)
 Получает на вход 2 числа, выводит периметр
+
 **Пример:**
+
 ```python
 from rectangle import perimeter
 s = perimeter(2, 3)
@@ -39,3 +43,4 @@ print(s) #выводит 10
 |e3222f7 | 4 fix README.md|
 |81c5ebc | 3 fix docs/README.md|
 |ebfd328 | 5 fix README.md|
+|9593713 | 4 fix docs/README.md|
